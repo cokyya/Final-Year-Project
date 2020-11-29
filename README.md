@@ -6,4 +6,4 @@ Currently, some relevant researches have been conducted on dataset including Rec
 
 The dataset UJIIndoorLoc contains large data in different building, floor and region. This project only focuses on building and floor prediction using SVM. The input for each instance is 520 RSSI signals collected from different access point and the output is the building and floor it supposed to locate at. 
 
-
+The UJIIndoorLoc data is too big to upload, but you can find it from here: https://archive.ics.uci.edu/ml/datasets/ujiindoorloc
